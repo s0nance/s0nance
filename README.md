@@ -15,6 +15,5 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuscontoli&layout=compact&theme=transparent"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://mariuscontoli-readme-stats.vercel.app/api/top-langs?username=mariuscontoli&layout=compact&theme=github_dark&langs_count=10" alt="mariuscontoli's Top Languages" align="right">
 </picture>
 
