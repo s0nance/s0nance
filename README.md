@@ -43,3 +43,4 @@
 <a href=""><img alt="Docker" title="Docker" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/docker.ico" height="42"></a>
 <a href=""><img alt="Firebase" title="Firebase" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/firebase.ico" height="42"></a>
 <a href=""><img alt="AWS" title="Amazon Web Service" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/aws.ico" height="42"></a>
+<a href=""><img alt="Android Studio" title="Android Studio" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/android_studio.ico" height="42"></a>
