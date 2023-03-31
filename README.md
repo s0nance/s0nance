@@ -1,6 +1,6 @@
 ## My Skills
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=mariuscontoli&layout=compact&theme=github_dark&langs_count=10alt="mariuscontoli's Top Languages" align="right">
 <picture>
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=mariuscontoli&layout=compact&theme=github_dark&langs_count=10alt="mariuscontoli's Top Languages" align="right">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=mariuscontoli&show_icons=true&theme=transparent"
   media="(prefers-color-scheme: dark)"
