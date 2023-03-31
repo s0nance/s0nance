@@ -11,3 +11,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mariuscontoli&show_icons=true" />
 </picture>
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=mariuscontoli&layout=compact&theme=github_dark&langs_count=10alt="mariuscontoli's Top Languages" align="right">
+![mariuscontoli's GitHub Stats][github-stats-img]
+
