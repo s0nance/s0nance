@@ -15,6 +15,6 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mariuscontoli&layout=compact&theme=transparent"
   media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariuscontoli&layout=compact&langs_count=10" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariuscontoli&layout=compact&theme=github_dark&langs_count=10" align="right"/>
 </picture>
 
