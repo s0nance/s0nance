@@ -1,4 +1,4 @@
-## My Skills
+## About me
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=mariuscontoli&show_icons=true&theme=transparent"
