@@ -37,6 +37,8 @@
 <a href=""><img alt="VueJS" title="VueJS" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/vue.ico" height="42"></a>
 
 
-### Environments I work with:
+### Environments/Tools I work with:
 <a href=""><img alt="Fedora" title="Fedora" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/fedora.ico" height="42"></a>
 <a href=""><img alt="JetBrains" title="JetBrains" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/jetbrains.ico" height="42"></a>
+<a href=""><img alt="VSCode" title="VSCode" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/vscode.ico" height="42"></a>
+<a href=""><img alt="Git" title="Git" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/git.ico" height="42"></a>
