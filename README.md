@@ -20,4 +20,4 @@
 
 ### Languages/Frameworks I'm good at:
 
-<a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a>
+<a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/bash.ico" height="42"></a>
