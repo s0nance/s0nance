@@ -18,3 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariuscontoli&layout=compact&theme=github_dark&langs_count=10" align="right"/>
 </picture>
 
+### Languages/Frameworks I'm good at:
+
+<a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a>
