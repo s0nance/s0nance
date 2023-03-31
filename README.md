@@ -35,6 +35,7 @@
 
 
 ### Environments/Tools I work with:
+<a href=""><img alt="GitHub" title="GitHub" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/github.ico" height="42"></a>
 <a href=""><img alt="Fedora" title="Fedora" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/fedora.ico" height="42"></a>
 <a href=""><img alt="JetBrains" title="JetBrains" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/jetbrains.ico" height="42"></a>
 <a href=""><img alt="VSCode" title="VSCode" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/vscode.ico" height="42"></a>
@@ -44,3 +45,4 @@
 <a href=""><img alt="Firebase" title="Firebase" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/firebase.ico" height="42"></a>
 <a href=""><img alt="AWS" title="Amazon Web Service" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/aws.ico" height="42"></a>
 <a href=""><img alt="Android Studio" title="Android Studio" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/android_studio.ico" height="42"></a>
+<a href=""><img alt="Atlassian" title="Atlassian" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/atlassian.ico" height="42"></a>
