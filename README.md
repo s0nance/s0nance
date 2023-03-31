@@ -22,8 +22,21 @@
 
 <a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/bash.ico" height="42"></a>
 <a href=""><img alt="C" title="C" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/c.ico" height="42"></a>
+<a href=""><img alt="C++" title="C++" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/c++.ico" height="42"></a>
 <a href=""><img alt="Angular" title="Angular" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/angular.ico" height="42"></a>
 <a href=""><img alt="NodeJS" title="NodeJS" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/nodejs.ico" height="42"></a>
 <a href=""><img alt="Flutter" title="Flutter" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/flutter.ico" height="42"></a>
 <a href=""><img alt="TypeScript" title="TypeScript" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/ts.ico" height="42"></a>
 <a href=""><img alt="JavaScript" title="JavaScript" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/js.ico" height="42"></a>
+<a href=""><img alt="JSON" title="JSON" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/json.ico" height="42"></a>
+<a href=""><img alt="MongoDB" title="MongoDB" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/mongo.ico" height="42"></a>
+<a href=""><img alt="Docker" title="Docker" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/docker.ico" height="42"></a>
+<a href=""><img alt="Firebase" title="Firebase" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/firebase.ico" height="42"></a>
+
+### Languages/Frameworks I'm learning:
+<a href=""><img alt="VueJS" title="VueJS" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/vue.ico" height="42"></a>
+
+
+### Environments I work with:
+<a href=""><img alt="Fedora" title="Fedora" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/fedora.ico" height="42"></a>
+<a href=""><img alt="JetBrains" title="JetBrains" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/jetbrains.ico" height="42"></a>
