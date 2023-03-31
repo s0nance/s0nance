@@ -26,3 +26,4 @@
 <a href=""><img alt="NodeJS" title="NodeJS" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/nodejs.ico" height="42"></a>
 <a href=""><img alt="Flutter" title="Flutter" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/flutter.ico" height="42"></a>
 <a href=""><img alt="TypeScript" title="TypeScript" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/ts.ico" height="42"></a>
+<a href=""><img alt="JavaScript" title="JavaScript" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/js.ico" height="42"></a>
