@@ -1,6 +1,6 @@
 ## 👦 About me
 
-### I love switchng stack and building architectures
+### One must imagine Sisyphus happy
 
 #### I have a website: https://mariuscontoli.com
 
