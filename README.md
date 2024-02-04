@@ -1,35 +1,9 @@
-## 👦 About me
+### 🪴 Hi.
 
-### One must imagine Sisyphus happy
+#### Mobile applications developper / code amateur.
+#### A quote I like: _One must imagine Sisyphus happy_
 
-#### I have a website: https://mariuscontoli.com
-
-### 💡 Languages/Frameworks I'm good at:
-
-<a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/bash.ico" height="42"></a>
-<a href=""><img alt="C" title="C" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/c.ico" height="42"></a>
-<a href=""><img alt="C++" title="C++" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/c++.ico" height="42"></a>
-<a href=""><img alt="NodeJS" title="NodeJS" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/nodejs.ico" height="42"></a>
-<a href=""><img alt="JetpackCompose" title="JetpackCompose" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/jetpack_compose.ico" height="42"></a>
-<a href=""><img alt="Flutter" title="Flutter" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/flutter.ico" height="42"></a>
-<a href=""><img alt="JavaScript" title="JavaScript" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/js.ico" height="42"></a>
-<a href=""><img alt="JSON" title="JSON" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/json.ico" height="42"></a>
-<a href=""><img alt="Python" title="Python" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/python.ico" height="42"></a>
-
-### 📚 Languages/Frameworks I'm learning:
-<a href=""><img alt="VueJS" title="VueJS" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/vue.ico" height="42"></a>
-<a href=""><img alt="Angular" title="Angular" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/angular.ico" height="42"></a>
-<a href=""><img alt="TypeScript" title="TypeScript" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/ts.ico" height="42"></a>
-
-### 🔨 Environments/Tools I work with:
-<a href=""><img alt="GitHub" title="GitHub" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/github.ico" height="42"></a>
-<a href=""><img alt="Fedora" title="Fedora" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/fedora.ico" height="42"></a>
-<a href=""><img alt="JetBrains" title="JetBrains" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/jetbrains.ico" height="42"></a>
-<a href=""><img alt="VSCode" title="VSCode" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/vscode.ico" height="42"></a>
-<a href=""><img alt="Git" title="Git" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/git.ico" height="42"></a>
-<a href=""><img alt="MongoDB" title="MongoDB" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/mongo.ico" height="42"></a>
-<a href=""><img alt="Docker" title="Docker" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/docker.ico" height="42"></a>
-<a href=""><img alt="Firebase" title="Firebase" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/firebase.ico" height="42"></a>
-<a href=""><img alt="AWS" title="Amazon Web Service" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/aws.ico" height="42"></a>
-<a href=""><img alt="Android Studio" title="Android Studio" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/android_studio.ico" height="42"></a>
-<a href=""><img alt="Atlassian" title="Atlassian" src="https://github.com/mariuscontoli/mariuscontoli/raw/master/icons/atlassian.ico" height="42"></a>
+- 🌱 Jetpack Compose on a daily basis
+- 🎋 *Architecture* & **Material Design 3**
+- 🌒 A **sleep/home** companion app might be an idea
+- 🌍 Send me architectures... please!
