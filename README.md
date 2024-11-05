@@ -1,6 +1,6 @@
 ### 🪴 Hi.
 
-#### Mobile applications developper / code amateur.
+#### software engineer / android developper.
 #### A quote I like: _One must imagine Sisyphus happy_
 
 - 🌱 Jetpack Compose on a daily basis
