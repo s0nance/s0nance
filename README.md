@@ -5,7 +5,7 @@
 
 - 🌱 Jetpack Compose on a daily basis
 - 🎋 *Architecture* & **Material Design 3**
-- 🌒 A **sleep/home** companion app might be an idea
+- 🌒 An app to educate / inform **dêmos** might be an idea
 - 🌍 Send me architectures... please!
 
 #### 💻 Some languages I like
