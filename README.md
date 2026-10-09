@@ -2,6 +2,8 @@
 
 ### 覇
 
+<table><tr><td>
+
 ```
 ═══════════════════════════════════════════════
               S  0  N  A  N  C  E
@@ -9,7 +11,11 @@
 ═══════════════════════════════════════════════
 ```
 
+</td></tr></table>
+
 <sub>// file recovered from corporate mainframe. lightly redacted.</sub>
+
+<table><tr><td>
 
 ```
 $ whoami
@@ -19,6 +25,8 @@ level 05 // public-facing record. the rest stays on-prem.
 $ ps aux | grep motivation
 running. since day one.
 ```
+
+</td></tr></table>
 
 </div>
 
@@ -78,12 +86,16 @@ running. since day one.
 
 <div align="center">
 
+<table><tr><td>
+
 ```
 ▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚
  T R A N S M I S S I O N   E N D
  [ core & architecture division ]
 ▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚
 ```
+
+</td></tr></table>
 
 覇
 
