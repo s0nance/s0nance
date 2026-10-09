@@ -4,8 +4,8 @@
 
 ```
 ═══════════════════════════════════════════════
-S  0  N  A  N  C  E
-core  &  architecture  division
+              S  0  N  A  N  C  E
+        core  &  architecture  division
 ═══════════════════════════════════════════════
 ```
 
